@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "date": "01",
+        "day": "Mon",
+        "selected": true
+    },{
+        "id": 2,
+        "date": "02",
+        "day": "Tue",
+        "selected": false
+    },{
+        "id": 3,
+        "date": "03",
+        "day": "Wed",
+        "selected": false
+    },{
+        "id": 4,
+        "date": "04",
+        "day": "Thu",
+        "selected": false
+    },{
+        "id": 5,
+        "date": "05",
+        "day": "Fri",
+        "selected": false
+    },{
+        "id": 6,
+        "date": "06",
+        "day": "Sat",
+        "selected": false
+    },{
+        "id": 7,
+        "date": "07",
+        "day": "Sun",
+        "selected": false
+    }
+]
