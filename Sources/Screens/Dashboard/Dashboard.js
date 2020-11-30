@@ -62,6 +62,7 @@ export default class Dashboard extends React.Component {
                             <Image source={require('./../../Assets/Images/profilepic.png')} style={{ height: 33, width: 33, borderRadius: 16, borderColor: Colors.white, borderWidth: 3}} />
                         </View>
                     </View>
+                    <ScrollView>
                     <View style={{ marginTop: 20, }}>
                         <Text style={styles.texthead1}>Overview</Text>
                         <View style={{flexDirection: "row", justifyContent: "space-between", marginTop: 5, alignItems: "flex-end"}}>
@@ -131,6 +132,7 @@ export default class Dashboard extends React.Component {
                         </View>
                     </View>
                     </View>
+                    </ScrollView>
                 </View>
             </SafeAreaView>
         );
